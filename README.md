@@ -5,5 +5,3 @@
 [![reward](https://make.fun/badge/tiny-stack-vm-01-run-20261122/Flowjack94/tiny-stack-vm-01-run-20261122/reward.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=tiny-stack-vm-01-run-20261122)
 
 Tiny stack VM for make.fun — runs every program of the tiny stack ISA, deterministic.
-
-Bounty: [Build a tiny stack virtual machine, 22 November 2026 — make.fun](https://make.fun/bounty/tiny-stack-vm-01-run-20261122)
